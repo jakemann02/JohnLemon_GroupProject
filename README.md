@@ -10,5 +10,5 @@ Gamepley Video Link:
     
 
 Github Repository Link:
-    https://github.com/Pr0tag/johnlemmon
+   https://github.com/jakemann02/JohnLemon_GroupProject
 
